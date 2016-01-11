@@ -13,3 +13,5 @@ gem 'activerecord'
 gem 'pg'
 
 gem 'pry-byebug'
+
+gem 'oauth'

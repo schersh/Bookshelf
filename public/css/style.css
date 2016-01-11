@@ -37,6 +37,11 @@ body {
 h1 {
   color: orange;
 }
+h3 {
+  color: orange;
+  font-size: 15px;
+  font-style: italic;
+}
 a {
   font-size: 20px;
   color: orange;
@@ -57,7 +62,7 @@ button {
 
 
 img {
-  width: 100px;
+  width: 200px;
   padding: 1%;
 }
 

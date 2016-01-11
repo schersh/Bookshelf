@@ -1,6 +1,6 @@
 # index
 get '/results' do
-  @results = Result.all 
+  # @results = Result.all 
   erb :"results/index"
 end
 

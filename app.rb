@@ -5,6 +5,8 @@ require 'pry'
 require 'nokogiri'
 require 'nori'
 require 'open-uri'
+require 'oauth'
+
 # connec to db (needed?)
 require_relative 'config/connection.rb'
 # load specific routes
